@@ -18,4 +18,4 @@ Before you move to set up SSH login notification on your machine, firstly you ne
   sudo service sshd restart
   ```
 * Try to logout and re-login on your server. If the code work, you will get the notification on Flock channel
-  ![Flock_Notification](./images.png)
+  ![Flock_Notification](./image.png)
