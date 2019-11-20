@@ -6,7 +6,7 @@ Before you move to set up SSH login notification on your machine, firstly you ne
 
 ## Setup Notification on Server
 * SSH to Server which you want to setup this notification
-* Download ssh_flock_notification.sh file from this repository
+* Download [ssh_flock_notification.sh](https://github.com/fa-fajrin/SSH_login_notification_in_flock/blob/master/ssh_login_notification.sh)
 * Open /etc/pam.d/sshd file using your favorite text editor and add this command line at the end of the line:
   ```
   # SSH Login notification on Flock
